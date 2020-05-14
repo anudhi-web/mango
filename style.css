@@ -1,0 +1,197 @@
+
+.navbar{
+    background-color:white;
+   opacity: 9.7;
+   }
+   .navbar-brand{
+       margin-top: 33px;
+   }
+   .navbar-nav li{
+      
+       margin-top: 48px;
+   }
+   .nav-link{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    letter-spacing: 0.08em;
+   }
+   .navbar-toggler{
+       background-color:gray;
+       
+   }
+
+   .h2{
+   
+  margin-top: 199px;
+  font-family: 'Philosopher', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 101.8%;
+    /* or 51px */
+    
+    letter-spacing: 0.06em;
+   }
+   .h3{
+       margin-top: 51px;
+       color: #F99415;
+       font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 99.8%;
+/* identical to box height, or 40px */
+
+letter-spacing: 0.06em;
+   }
+
+   #p{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 31px;
+    line-height: 99.8%;
+    /* identical to box height, or 31px */
+    
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    
+    /* Gray 1 */
+    
+    color: #333333;
+   }
+   #col2{
+       margin-bottom: 55px;
+   }
+
+   #service{
+ 
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 43px;
+ 
+    /* Gray 1 */
+    
+    color: #333333;
+   }
+
+   #col4{
+       background-color: #FEEDE3;
+   }
+
+   #ro4{
+       margin-bottom: 83px;
+   }
+   #roimg{
+       margin-top: 65px;
+       margin-bottom: 35px;
+      
+   }
+   
+   .row hr{
+    width: 752px;
+    opacity: 0.2;
+    border: 1px solid #F99415;
+   }
+
+   #dis1{
+       margin:5px 25px 15px 25px;
+       font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+text-transform: capitalize;
+   }
+
+   #vehi{
+    font-family: 'Roboto', sans-serif; 
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    /* Gray 1 */
+    margin-top: 61px;
+    color: #333333;
+   }
+
+#car{
+    font-family:'Roboto', sans-serif; 
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+text-transform: capitalize;
+text-align: center;
+margin-bottom: 95px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+#vehi2{
+    margin-left: 15px;
+}
+#footer{
+    background-color:  #FEEDE3;
+   
+}
+#lastlogo{
+    margin-top: 39px;
+}
+#ftitem{
+    font-family:'Roboto', sans-serif; 
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.08em;
+    text-align: left;
+  
+    /* Gray 1 */
+    margin-top: 40px;
+   
+}
+#tel{
+    margin-top: 40px;
+    font-family:'Roboto', sans-serif; 
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.08em;
+margin-bottom: 24px;
+/* Gray 1 */
+
+color: #333333;
+}
+#con{
+    font-family:'Roboto', sans-serif; 
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.08em;
+/* Gray 1 */
+
+}
+
+#imlast{
+    margin-right: 12px;
+}
+
+a{
+    color: black;
+}
